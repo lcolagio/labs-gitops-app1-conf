@@ -1,1 +1,2 @@
-# labs-gitops-app1-conf v1.0
+# labs-gitops-app1-conf
+# Add feature 1
