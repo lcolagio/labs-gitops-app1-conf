@@ -11,4 +11,4 @@ spec:
   to:
     kind: Service
     name: reverse-words
-    weight: 200
+    weight: 300
